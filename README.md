@@ -214,11 +214,4 @@ Screenshot
 
 (Insert image of the app UI here)
 
-Getting Started
 
-pip install PyMuPDF Pillow
-python pdf_editor.py
-
-Author
-
-Developed with ❤️ for interactive PDF annotation tasks.
